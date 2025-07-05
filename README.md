@@ -71,7 +71,7 @@ Completed a structured internship program by **ApexPlanet Software Pvt. Ltd**, f
 
 ## 👨‍💻 Author
 
-**Shaik Johnny**
+**Shaik Johnny** 
 Intern at ApexPlanet Software Pvt. Ltd
 
 🔗 GitHub: [github.com/JOHNNY-SHAIK/Apex\_internship.git](https://github.com/JOHNNY-SHAIK/Apex_internship.git)
