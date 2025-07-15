@@ -42,6 +42,19 @@ Completed a structured internship program by **ApexPlanet Software Pvt. Ltd**, f
 * Created a note-taking app with `localStorage` for data persistence.
 * Developed a product listing page with filtering and sorting.
 * Outcome: Complete front-end projects showcasing design, logic, and persistence.
+# 💼 Final Portfolio – Task 5
+
+This is my advanced, optimized, and professional web portfolio submitted as part of ApexPlanet Internship – Task 5.
+
+## 🔧 Features:
+- Fully responsive layout
+- Lazy loading images
+- SEO optimized with OG tags
+- Dark mode support
+- Blog, Testimonials, Services sections
+
+👨‍💻 Built using HTML, CSS, JS, Bootstrap
+
 
 ---
 
@@ -53,6 +66,7 @@ Completed a structured internship program by **ApexPlanet Software Pvt. Ltd**, f
 ├── task2/         → Form, layout, to-do app
 ├── task3/         → Media queries, quiz/carousel, API
 ├── task4/         → Portfolio, note app, product filter
+├── task5-portfolio/ → Final optimized portfolio with SEO, lazy load, dark mode, blog, testimonials, services, and performance enhancements
 └── README.md
 ```
 
