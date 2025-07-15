@@ -8,9 +8,11 @@ Completed a structured internship program by **ApexPlanet Software Pvt. Ltd**, f
 
 ## 📅 Duration
 
-**36 Days**
-**Tasks Completed**: 4
-**Technologies**: HTML5, CSS3, JavaScript, APIs, Local Storage
+**45 Days**
+
+**Tasks Completed**: 5
+
+**Technologies**: HTML5, CSS3, Bootstrap 5, JavaScript, Google Fonts, Fetch API, DOM Manipulation, Local Storage, Toasts, Responsive Design, Lazy Loading, SEO Meta Tags, Open Graph Tags, Dark Mode, Favicon, Cross-Browser Compatibility.
 
 ---
 
@@ -62,11 +64,17 @@ This is my advanced, optimized, and professional web portfolio submitted as part
 
 ```
 /project-root
+
 ├── task1/         → Basic webpage
+
 ├── task2/         → Form, layout, to-do app
+
 ├── task3/         → Media queries, quiz/carousel, API
+
 ├── task4/         → Portfolio, note app, product filter
+
 ├── task5-portfolio/ → Final optimized portfolio with SEO, lazy load, dark mode, blog, testimonials, services, and performance enhancements
+
 └── README.md
 ```
 
@@ -74,12 +82,16 @@ This is my advanced, optimized, and professional web portfolio submitted as part
 
 ## 🎯 Key Skills
 
-* Semantic HTML, CSS3, Flexbox & Grid
+* Semantic HTML5, CSS3, Flexbox & Grid
 * JavaScript DOM manipulation & event handling
-* Responsive design with media queries
-* API integration with Fetch
+* Responsive design with media queries & Bootstrap
+* API integration using Fetch API
 * Local Storage usage for data persistence
-* Filtering, sorting, and UI logic design
+* Filtering, sorting, UI logic & toast-based interaction
+* Cross-browser compatibility & lazy loading
+* Dark mode toggle & theme management
+* SEO meta tags & performance optimization
+* Git & GitHub version control
 
 ---
 
